@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/homework-2-methot-ilya-3ds/static/css/main.a617e044.chunk.css",
-    "main.js": "/homework-2-methot-ilya-3ds/static/js/main.a9c35cbb.chunk.js",
-    "main.js.map": "/homework-2-methot-ilya-3ds/static/js/main.a9c35cbb.chunk.js.map",
-    "runtime-main.js": "/homework-2-methot-ilya-3ds/static/js/runtime-main.620dfe00.js",
-    "runtime-main.js.map": "/homework-2-methot-ilya-3ds/static/js/runtime-main.620dfe00.js.map",
-    "static/js/2.a3a4ba4d.chunk.js": "/homework-2-methot-ilya-3ds/static/js/2.a3a4ba4d.chunk.js",
-    "static/js/2.a3a4ba4d.chunk.js.map": "/homework-2-methot-ilya-3ds/static/js/2.a3a4ba4d.chunk.js.map",
-    "static/js/3.55e19629.chunk.js": "/homework-2-methot-ilya-3ds/static/js/3.55e19629.chunk.js",
-    "static/js/3.55e19629.chunk.js.map": "/homework-2-methot-ilya-3ds/static/js/3.55e19629.chunk.js.map",
-    "index.html": "/homework-2-methot-ilya-3ds/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/homework-2-methot-ilya-3ds/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a3a4ba4d.chunk.js.LICENSE.txt": "/homework-2-methot-ilya-3ds/static/js/2.a3a4ba4d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/homework-2-methot-ilya-3ds/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-first-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/my-first-app/static/js/main.a9c35cbb.chunk.js",
+    "main.js.map": "/my-first-app/static/js/main.a9c35cbb.chunk.js.map",
+    "runtime-main.js": "/my-first-app/static/js/runtime-main.3c687713.js",
+    "runtime-main.js.map": "/my-first-app/static/js/runtime-main.3c687713.js.map",
+    "static/js/2.a3a4ba4d.chunk.js": "/my-first-app/static/js/2.a3a4ba4d.chunk.js",
+    "static/js/2.a3a4ba4d.chunk.js.map": "/my-first-app/static/js/2.a3a4ba4d.chunk.js.map",
+    "static/js/3.55e19629.chunk.js": "/my-first-app/static/js/3.55e19629.chunk.js",
+    "static/js/3.55e19629.chunk.js.map": "/my-first-app/static/js/3.55e19629.chunk.js.map",
+    "index.html": "/my-first-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/my-first-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3a4ba4d.chunk.js.LICENSE.txt": "/my-first-app/static/js/2.a3a4ba4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-first-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.620dfe00.js",
+    "static/js/runtime-main.3c687713.js",
     "static/js/2.a3a4ba4d.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.a9c35cbb.chunk.js"
