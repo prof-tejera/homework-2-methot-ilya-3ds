@@ -1,48 +1,18 @@
-# React - Dev Setup and Deployment
-
-This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
-
-## Step 1
-- Install `npx` following the instructions here: https://www.npmjs.com/package/npx
-- run `npx create-react-app my-first-app` to create the React application
-- In the newly created app, replace the contents of `App.js` including your name:
-
-```
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>Hello CSCI E-39!</p>
-        <p>
-          My name is ____________
-        </p>
-      </header>
-    </div>
-  );
-}
-
-export default App;
-```
-
-- run `npm install`
-- start the app with `npm start`
-- verify the app is running
-- modify line 6 in `App.test.js` to:
-
-`const linkElement = screen.getByText(/Hello CSCI E-39!/i);`
-
-- make sure all tests pass when running `npm run test` 
-
-## Step 2
-Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
-
-## Submitting
-Edit this file (README.md) and complete the following:
+Ilya Methot Homework 2:
 
 - URL to live application: 
+
+https://methot-ilya-3ds.github.io/my-first-app/
+
 - How did you deploy it?
+
+1. Created own repository
+2. Installed React in it using npx create-react-app
+3. Installed gh-pages package to the react app
+4. Deploy to Github as seperate branch.
+
 - What code editor are you using?
+
+Visual Studio Code
 
 That is all!
